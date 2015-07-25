@@ -48,6 +48,10 @@
     {
       "url": "https://www.owasp.org/index.php/LDAP_injection", 
       "title": "OWASP"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/90.html",
+      "title": "CWE-90"
     }
   ]
 }

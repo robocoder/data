@@ -41,6 +41,14 @@
     {
       "url": "https://www.owasp.org/index.php/Top_10_2010-A10-Unvalidated_Redirects_and_Forwards", 
       "title": "OWASP Top 10 2010"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/601.html",
+      "title": "CWE-601"
+    },
+    {
+      "url": "https://cwe.mitre.org/top25/index.html#CWE-601",
+      "title": "CWE/SANS Top 25 (2011)"
     }
   ]
 }

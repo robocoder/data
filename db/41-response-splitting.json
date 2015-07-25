@@ -42,6 +42,10 @@
     {
       "url": "https://www.owasp.org/index.php/HTTP_Response_Splitting", 
       "title": "OWASP"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/98.html",
+      "title": "CWE-98"
     }
   ]
 }

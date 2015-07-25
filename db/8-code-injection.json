@@ -54,6 +54,10 @@
     {
       "url": "http://perldoc.perl.org/functions/eval.html", 
       "title": "Perl eval documentation"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/95.html",
+      "title": "CWE-95"
     }
   ]
 }

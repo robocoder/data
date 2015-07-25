@@ -55,6 +55,10 @@
     {
       "url": "http://en.wikipedia.org/wiki/Remote_File_Inclusion", 
       "title": "Wikipedia"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/98.html",
+      "title": "CWE-98"
     }
   ]
 }

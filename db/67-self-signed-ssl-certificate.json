@@ -27,6 +27,10 @@
     {
       "url": "https://en.wikipedia.org/wiki/Self-signed_certificate",
       "title": "Wikipedia article on self-signed certificates"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/296.html",
+      "title": "CWE-296"
     }
   ]
 }

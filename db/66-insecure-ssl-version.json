@@ -32,6 +32,10 @@
     {
       "url": "https://support.microsoft.com/en-us/kb/187498",
       "title": "How to Disable SSL 2.0 in IIS"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/326.html",
+      "title": "CWE-326"
     }
   ]
 }

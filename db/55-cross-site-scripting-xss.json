@@ -75,6 +75,14 @@
     {
       "url": "https://www.owasp.org/index.php/XSS_%28Cross_Site_Scripting%29_Prevention_Cheat_Sheet", 
       "title": "OWASP"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/79.html",
+      "title": "CWE-79"
+    },
+    {
+      "url": "https://cwe.mitre.org/top25/index.html#CWE-79",
+      "title": "CWE/SANS Top 25 (2011)"
     }
   ]
 }

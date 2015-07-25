@@ -38,6 +38,10 @@
     {
       "url": "http://httpd.apache.org/docs/2.2/mod/core.html#limitexcept", 
       "title": "Apache.org"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/749.html",
+      "title": "CWE-749"
     }
   ]
 }

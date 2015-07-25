@@ -38,7 +38,7 @@
       "from the server."
     ]
   }, 
-  "cwe": ["200"],
+  "cwe": ["200", "540"],
   "owasp_top_10": {"2013": [6]},
   "tags": [
     "web",
@@ -50,7 +50,11 @@
   ], 
   "references": [
     {
-      "url": "http://cwe.mitre.org/data/definitions/540.html", 
+      "url": "http://cwe.mitre.org/data/definitions/200.html",
+      "title": "CWE-200"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/540.html",
       "title": "CWE-540"
     }
   ]

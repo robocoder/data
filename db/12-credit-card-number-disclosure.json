@@ -38,6 +38,10 @@
     {
       "url": "http://en.wikipedia.org/wiki/Bank_card_number", 
       "title": "Wikipedia - Bank card number"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/200.html",
+      "title": "CWE-200"
     }
   ]
 }

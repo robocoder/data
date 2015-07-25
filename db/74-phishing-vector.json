@@ -32,6 +32,10 @@
     {
       "url": "https://www.owasp.org/index.php/Phishing",
       "title": "Phishing - OWASP"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/451.html",
+      "title": "CWE-451"
     }
   ]
 }

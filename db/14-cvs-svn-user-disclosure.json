@@ -17,7 +17,7 @@
     "Using the same automated methods, the tool was able to detect CVS or", 
     "SVN details stored within the affected page."
   ], 
-  "cwe": ["527"],
+  "cwe": ["200", "527"],
   "fix": {
     "effort": 50, 
     "guidance": [
@@ -29,8 +29,12 @@
   }, 
   "references": [
     {
-      "url": "http://cwe.mitre.org/data/definitions/200.html", 
+      "url": "http://cwe.mitre.org/data/definitions/200.html",
       "title": "CWE-200"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/527.html",
+      "title": "CWE-527"
     }
   ]
 }

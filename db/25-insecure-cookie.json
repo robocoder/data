@@ -37,6 +37,10 @@
     {
       "url": "https://www.owasp.org/index.php/SecureFlag", 
       "title": "SecureFlag - OWASP"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/614.html",
+      "title": "CWE-614"
     }
   ]
 }

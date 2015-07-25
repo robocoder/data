@@ -40,6 +40,14 @@
     {
       "url": "https://www.trustwave.com/Resources/SpiderLabs-Blog/Reflected-File-Download---A-New-Web-Attack-Vector/",
       "title": "Reflected File Download - A New Web Attack Vector"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/79.html",
+      "title": "CWE-79"
+    },
+    {
+      "url": "https://cwe.mitre.org/top25/index.html#CWE-79",
+      "title": "CWE/SANS Top 25 (2011)"
     }
   ]
 }

@@ -35,6 +35,10 @@
     {
       "url": "https://www.owasp.org/index.php/HttpOnly", 
       "title": "HttpOnly - OWASP"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/87.html",
+      "title": "CWE-87"
     }
   ]
 }

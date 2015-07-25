@@ -47,6 +47,14 @@
     {
       "url": "https://www.owasp.org/index.php/XPATH_Injection", 
       "title": "OWASP"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/91.html",
+      "title": "CWE-91"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/643.html",
+      "title": "CWE-643"
     }
   ]
 }

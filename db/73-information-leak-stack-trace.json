@@ -36,6 +36,10 @@
     {
       "url": "http://projects.webappsec.org/w/page/13246936/Information%20Leakage",
       "title": "WASC threat classification"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/200.html",
+      "title": "CWE-200"
     }
   ]
 }

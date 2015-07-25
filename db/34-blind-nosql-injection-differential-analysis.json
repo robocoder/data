@@ -34,6 +34,14 @@
     {
       "url": "https://www.owasp.org/index.php/Testing_for_NoSQL_injection", 
       "title": "OWASP"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/89.html",
+      "title": "CWE-89"
+    },
+    {
+      "url": "https://cwe.mitre.org/top25/index.html#CWE-89",
+      "title": "CWE/SANS Top 25 (2011)"
     }
   ]
 }

@@ -40,6 +40,10 @@
     {
       "url": "https://en.wikipedia.org/wiki/Cross-origin_resource_sharing",
       "title": "CORS article at Wikipedia"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/346.html",
+      "title": "CWE-346"
     }
   ]
 }

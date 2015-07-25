@@ -27,6 +27,10 @@
     {
       "url": "https://www.owasp.org/index.php/XML_External_Entity_%28XXE%29_Processing", 
       "title": "OWASP"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/611.html",
+      "title": "CWE-611"
     }
   ]
 }

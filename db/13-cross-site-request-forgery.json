@@ -60,6 +60,14 @@
     {
       "url": "https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)", 
       "title": "OWASP - CSRF"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/352.html",
+      "title": "CWE-352"
+    },
+    {
+      "url": "https://cwe.mitre.org/top25/index.html#CWE-352",
+      "title": "CWE/SANS Top 25 (2011)"
     }
   ]
 }

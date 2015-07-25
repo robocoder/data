@@ -26,6 +26,10 @@
     {
       "url": "http://www.ssa.gov/pubs/10064.html", 
       "title": "ssa.gov"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/213.html",
+      "title": "CWE-213"
     }
   ]
 }

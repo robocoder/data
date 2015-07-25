@@ -44,6 +44,10 @@
     {
       "url": "http://www.webappsec.org/projects/threat/classes/information_leakage.shtml", 
       "title": "WebAppSec"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/530.html",
+      "title": "CWE-530"
     }
   ]
 }

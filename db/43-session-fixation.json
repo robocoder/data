@@ -53,6 +53,10 @@
     {
       "url": "https://www.owasp.org/index.php/Session_fixation", 
       "title": "OWASP - Session fixation"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/384.html",
+      "title": "CWE-384"
     }
   ]
 }

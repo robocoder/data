@@ -42,6 +42,10 @@
     {
       "url": "https://www.owasp.org/index.php/Forced_browsing", 
       "title": "OWASP - Forced browsing"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/538.html",
+      "title": "CWE-538"
     }
   ]
 }

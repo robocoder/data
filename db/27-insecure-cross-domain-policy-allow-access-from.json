@@ -35,6 +35,10 @@
     {
       "url": "https://www.owasp.org/index.php/Test_Cross_Origin_Resource_Sharing_%28OTG-CLIENT-007%29", 
       "title": "OWASP"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/346.html",
+      "title": "CWE-346"
     }
   ]
 }

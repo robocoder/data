@@ -49,6 +49,14 @@
     {
       "url": "https://www.owasp.org/index.php/Unrestricted_File_Upload", 
       "title": "owasp.org"
+    },
+    {
+      "url": "http://cwe.mitre.org/data/definitions/434.html",
+      "title": "CWE-434"
+    },
+    {
+      "url": "https://cwe.mitre.org/top25/index.html#CWE-434",
+      "title": "CWE/SANS Top 25 (2011)"
     }
   ]
 }
