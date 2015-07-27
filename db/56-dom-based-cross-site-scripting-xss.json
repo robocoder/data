@@ -36,6 +36,7 @@
   }, 
   "cwe": ["79"],
   "owasp_top_10": {"2013": [3]},
+  "wasc": ["8"],
   "tags": [
     "web",
     "xss", 
@@ -44,10 +45,6 @@
     "script"
   ], 
   "references": [
-    {
-      "url": "http://projects.webappsec.org/w/page/13246920/Cross%20Site%20Scripting", 
-      "title": "WASC"
-    }, 
     {
       "url": "https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet", 
       "title": "OWASP - Prevention"

@@ -27,15 +27,10 @@
   },
   "cwe": ["200"],
   "owasp_top_10": {"2013": [6]},
+  "wasc": ["13"],
   "tags": [
     "web",
     "error",
     "information leak"
-  ],
-  "references": [
-    {
-      "url": "http://projects.webappsec.org/w/page/13246936/Information%20Leakage",
-      "title": "WASC threat classification"
-    }
   ]
 }

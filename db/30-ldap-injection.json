@@ -35,16 +35,13 @@
   }, 
   "cwe": ["90"],
   "owasp_top_10": {"2013": [1]},
+  "wasc": ["29"],
   "tags": [
     "web",
     "ldap", 
     "injection"
   ], 
   "references": [
-    {
-      "url": "http://projects.webappsec.org/w/page/13246947/LDAP-Injection", 
-      "title": "WASC"
-    }, 
     {
       "url": "https://www.owasp.org/index.php/LDAP_injection", 
       "title": "OWASP"

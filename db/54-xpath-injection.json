@@ -32,6 +32,7 @@
   }, 
   "cwe": ["91", "643"],
   "owasp_top_10": {"2013": [1]},
+  "wasc": ["39"],
   "tags": [
     "web",
     "xpath", 
@@ -40,10 +41,6 @@
     "injection"
   ], 
   "references": [
-    {
-      "url": "http://projects.webappsec.org/w/page/13247005/XPath%20Injection", 
-      "title": "WASC"
-    }, 
     {
       "url": "https://www.owasp.org/index.php/XPATH_Injection", 
       "title": "OWASP"

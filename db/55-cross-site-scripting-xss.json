@@ -53,6 +53,7 @@
   }, 
   "cwe": ["79"],
   "owasp_top_10": {"2013": [3]},
+  "wasc": ["8"],
   "tags": [
     "web",
     "xss", 
@@ -60,10 +61,6 @@
     "script"
   ], 
   "references": [
-    {
-      "url": "http://projects.webappsec.org/w/page/13246920/Cross%20Site%20Scripting", 
-      "title": "WASC"
-    }, 
     {
       "url": "http://secunia.com/advisories/9716/", 
       "title": "Secunia"

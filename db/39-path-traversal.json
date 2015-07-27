@@ -44,6 +44,7 @@
   }, 
   "cwe": ["22"],
   "owasp_top_10": {"2013": [4]},
+  "wasc": ["33"],
   "tags": [
     "web",
     "path", 
@@ -51,10 +52,6 @@
     "injection"
   ], 
   "references": [
-    {
-      "url": "http://projects.webappsec.org/Path-Traversal", 
-      "title": "WASC"
-    }, 
     {
       "url": "https://www.owasp.org/index.php/Path_Traversal", 
       "title": "OWASP"

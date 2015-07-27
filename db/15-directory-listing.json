@@ -34,17 +34,12 @@
   }, 
   "cwe": ["548"],
   "owasp_top_10": {"2013": [5]},
+  "wasc": ["16"],
   "tags": [
     "web",
     "path", 
     "directory", 
     "listing", 
     "index"
-  ], 
-  "references": [
-    {
-      "url": "http://projects.webappsec.org/w/page/13246922/Directory%20Indexing", 
-      "title": "WASC"
-    }
   ]
 }

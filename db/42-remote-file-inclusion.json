@@ -40,6 +40,7 @@
   }, 
   "cwe": ["98"],
   "owasp_top_10": {"2013": [1]},
+  "wasc": ["5"],
   "tags": [
     "web",
     "remote", 
@@ -48,10 +49,6 @@
     "injection"
   ], 
   "references": [
-    {
-      "url": "http://projects.webappsec.org/Remote-File-Inclusion", 
-      "title": "WASC"
-    }, 
     {
       "url": "http://en.wikipedia.org/wiki/Remote_File_Inclusion", 
       "title": "Wikipedia"

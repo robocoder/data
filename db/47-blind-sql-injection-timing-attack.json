@@ -38,6 +38,7 @@
       "column is configured to contain integers."
     ]
   }, 
+  "wasc": ["19"],
   "tags": [
     "web",
     "sql", 
@@ -49,10 +50,6 @@
     {
       "url": "http://capec.mitre.org/data/definitions/7.html", 
       "title": "MITRE - CAPEC"
-    }, 
-    {
-      "url": "http://projects.webappsec.org/w/page/13246963/SQL%20Injection", 
-      "title": "WASC"
     }, 
     {
       "url": "http://www.w3schools.com/sql/sql_injection.asp", 

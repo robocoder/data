@@ -37,6 +37,7 @@
   }, 
   "cwe": ["384"],
   "owasp_top_10": {"2013": [2]},
+  "wasc": ["37"],
   "tags": [
     "web",
     "session", 
@@ -46,10 +47,6 @@
     "hijacking"
   ], 
   "references": [
-    {
-      "url": "http://projects.webappsec.org/w/page/13246960/Session%20Fixation", 
-      "title": "WASC"
-    }, 
     {
       "url": "https://www.owasp.org/index.php/Session_fixation", 
       "title": "OWASP - Session fixation"
