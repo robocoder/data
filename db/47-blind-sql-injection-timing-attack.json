@@ -55,10 +55,6 @@
       "title": "WASC"
     }, 
     {
-      "url": "http://www.w3schools.com/sql/sql_injection.asp", 
-      "title": "W3 Schools"
-    }, 
-    {
       "url": "https://www.owasp.org/index.php/Blind_SQL_Injection", 
       "title": "OWASP"
     }
