@@ -1,0 +1,32 @@
+{
+  "name": "cwe_sans_25[2011]",
+  "title": "2011 CWE/SANS Top 25 Most Dangerous Software Errors3",
+  "template-url": "http://cwe.mitre.org/data/definitions/%d.html",
+  "map": {
+    "89":  "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+    "78":  "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+    "120": "Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')",
+    "79":  "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+    "306": "Missing Authentication for Critical Function",
+    "862": "Missing Authorization",
+    "798": "Use of Hard-coded Credentials",
+    "311": "Missing Encryption of Sensitive Data",
+    "434": "Unrestricted Upload of File with Dangerous Type",
+    "807": "Reliance on Untrusted Inputs in a Security Decision",
+    "250": "Execution with Unnecessary Privileges",
+    "352": "Cross-Site Request Forgery (CSRF)",
+    "22":  "Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+    "494": "Download of Code Without Integrity Check",
+    "863": "Incorrect Authorization",
+    "829": "Inclusion of Functionality from Untrusted Control Sphere",
+    "732": "Incorrect Permission Assignment for Critical Resource",
+    "676": "Use of Potentially Dangerous Function",
+    "327": "Use of a Broken or Risky Cryptographic Algorithm",
+    "131": "Incorrect Calculation of Buffer Size",
+    "307": "Improper Restriction of Excessive Authentication Attempts",
+    "601": "URL Redirection to Untrusted Site ('Open Redirect')",
+    "134": "Uncontrolled Format String",
+    "190": "Integer Overflow or Wraparound",
+    "759": "Use of a One-Way Hash without a Salt"
+  }
+}

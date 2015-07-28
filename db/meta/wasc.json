@@ -1,0 +1,202 @@
+{
+  "name": "wasc",
+  "title": "WASC Threat Classification v2.0",
+  "data-map": {
+    "42": {
+      "url": "http://projects.webappsec.org/w/page/13246913/Abuse%20of%20Functionality",
+      "title": "Abuse of Functionality"
+    },
+    "11": {
+      "url": "http://projects.webappsec.org/w/page/13246915/Brute%20Force",
+      "title": "Brute Force"
+    },
+    "7":  {
+      "url": "http://projects.webappsec.org/w/page/13246916/Buffer%20Overflow",
+      "title": "Buffer Overflow"
+    },
+    "12": {
+      "url": "http://projects.webappsec.org/w/page/13246917/Content%20Spoofing",
+      "title": "Content Spoofing"
+    },
+    "18": {
+      "url": "http://projects.webappsec.org/w/page/13246918/Credential%20and%20Session%20Prediction",
+      "title": "Credential and Session Prediction"
+    },
+    "8":  {
+      "url": "http://projects.webappsec.org/w/page/13246920/Cross%20Site%20Scripting",
+      "title": "Cross Site Scripting"
+    },
+    "9":  {
+      "url": "http://projects.webappsec.org/w/page/13246919/Cross%20Site%20Request%20Forgery",
+      "title": "Cross Site Request Forgery"
+    },
+    "10": {
+      "url": "http://projects.webappsec.org/w/page/13246921/Denial%20of%20Service",
+      "title": "Denial of Service"
+    },
+    "45": {
+      "url": "http://projects.webappsec.org/w/page/13246925/Fingerprinting",
+      "title": "Fingerprinting"
+    },
+    "27": {
+      "url": "http://projects.webappsec.org/w/page/13246930/HTTP%20Response%20Smuggling",
+      "title": "HTTP Response Smuggling"
+    },
+    "25": {
+      "url": "http://projects.webappsec.org/w/page/13246931/HTTP%20Response%20Splitting",
+      "title": "HTTP Response Splitting"
+    },
+    "26": {
+      "url": "http://projects.webappsec.org/w/page/13246928/HTTP%20Request%20Smuggling",
+      "title": "HTP Request Smuggling"
+    },
+    "24": {
+      "url": "http://projects.webappsec.org/w/page/13246929/HTTP%20Request%20Splitting",
+      "title": "HTTP Request Splitting"
+    },
+    "3":  {
+      "url": "http://projects.webappsec.org/w/page/13246946/Integer%20Overflows",
+      "title": "Integer Overflows"
+    },
+    "6":  {
+      "url": "http://projects.webappsec.org/w/page/13246926/Format%20String",
+      "title": "Format String"
+    },
+    "29": {
+      "url": "http://projects.webappsec.org/w/page/13246947/LDAP%20Injection",
+      "title": "LDAP Injection"
+    },
+    "30": {
+      "url": "http://projects.webappsec.org/w/page/13246948/Mail%20Command%20Injection",
+      "title": "Mail Command Injection"
+    },
+    "28": {
+      "url": "http://projects.webappsec.org/w/page/13246949/Null%20Byte%20Injection",
+      "title": "Null Byte Injection"
+    },
+    "31": {
+      "url": "http://projects.webappsec.org/w/page/13246950/OS%20Commanding",
+      "title": "OS Commanding"
+    },
+    "33": {
+      "url": "http://projects.webappsec.org/w/page/13246952/Path%20Traversal",
+      "title": "Path Traversal"
+    },
+    "34": {
+      "url": "http://projects.webappsec.org/w/page/13246953/Predictable%20Resource%20Location",
+      "title": "Predictable Resource Location"
+    },
+    "5":  {
+      "url": "http://projects.webappsec.org/w/page/13246955/Remote%20File%20Inclusion",
+      "title": "Remote File Inclusion"
+    },
+    "32": {
+      "url": "http://projects.webappsec.org/w/page/13246956/Routing%20Detour",
+      "title": "Routing Detour"
+    },
+    "37": {
+      "url": "http://projects.webappsec.org/w/page/13246960/Session%20Fixation",
+      "title": "Session Fixation"
+    },
+    "35": {
+      "url": "http://projects.webappsec.org/w/page/13246962/SOAP%20Array%20Abuse",
+      "title": "SOAP Array Abuse"
+    },
+    "36": {
+      "url": "http://projects.webappsec.org/w/page/13246964/SSI%20Injection",
+      "title": "SSI Injection"
+    },
+    "19": {
+      "url": "http://projects.webappsec.org/w/page/13246963/SQL%20Injection",
+      "title": "SQL Injection"
+    },
+    "38": {
+      "url": "http://projects.webappsec.org/w/page/13246981/URL%20Redirector%20Abuse",
+      "title": "URL Redirector Abuse"
+    },
+    "39": {
+      "url": "http://projects.webappsec.org/w/page/13247005/XPath%20Injection",
+      "title": "XPath Injection"
+    },
+    "41": {
+      "url": "http://projects.webappsec.org/w/page/13247001/XML%20Attribute%20Blowup",
+      "title": "XML Attribute Blowup"
+    },
+    "43": {
+      "url": "http://projects.webappsec.org/w/page/13247003/XML%20External%20Entities",
+      "title": "XML External Entities"
+    },
+    "44": {
+      "url": "http://projects.webappsec.org/w/page/13247002/XML%20Entity%20Expansion",
+      "title": "XML Entity Expansion"
+    },
+    "23": {
+      "url": "http://projects.webappsec.org/w/page/13247004/XML%20Injection",
+      "title": "XML Injection"
+    },
+    "46": {
+      "url": "http://projects.webappsec.org/w/page/13247006/XQuery%20Injection",
+      "title": "XQuery Injection"
+    },
+    "15": {
+      "url": "http://projects.webappsec.org/w/page/13246914/Application%20Misconfiguration",
+      "title": "Application Misconfiguration"
+    },
+    "16": {
+      "url": "http://projects.webappsec.org/w/page/13246922/Directory%20Indexing",
+      "title": "Directory Indexing"
+    },
+    "17": {
+      "url": "http://projects.webappsec.org/w/page/13246932/Improper%20Filesystem%20Permissions",
+      "title": "Improper Filesystem Permissions"
+    },
+    "20": {
+      "url": "http://projects.webappsec.org/w/page/13246933/Improper%20Input%20Handling",
+      "title": "Improper Input Handler"
+    },
+    "22": {
+      "url": "http://projects.webappsec.org/w/page/13246934/Improper%20Output%20Handling",
+      "title": "Improper Output Handling"
+    },
+    "13": {
+      "url": "http://projects.webappsec.org/w/page/13246936/Information%20Leakage",
+      "title": "Information Leakage"
+    },
+    "48": {
+      "url": "http://projects.webappsec.org/w/page/13246937/Insecure%20Indexing",
+      "title": "Insecure Indexing"
+    },
+    "21": {
+      "url": "http://projects.webappsec.org/w/page/13246938/Insufficient%20Anti-automation",
+      "title": "Insufficient Anti-automation"
+    },
+    "1":  {
+      "url": "http://projects.webappsec.org/w/page/13246939/Insufficient%20Authentication",
+      "title": "Insufficient Authentication"
+    },
+    "2":  {
+      "url": "http://projects.webappsec.org/w/page/13246940/Insufficient%20Authorization",
+      "title": "Insufficient Authorization"
+    },
+    "49": {
+      "url": "http://projects.webappsec.org/w/page/13246942/Insufficient%20Password%20Recovery",
+      "title": "Insufficient Password Recovery"
+    },
+    "40": {
+      "url": "http://projects.webappsec.org/w/page/13246943/Insufficient%20Process%20Validation",
+      "title": "Insufficient Process Validation"
+    },
+    "47": {
+      "url": "http://projects.webappsec.org/w/page/13246944/Insufficient%20Session%20Expiration",
+      "title": "Insufficient Session Expiration"
+    },
+    "4":  {
+      "url": "http://projects.webappsec.org/w/page/13246945/Insufficient%20Transport%20Layer%20Protection",
+      "title": "Insufficient Transport Layer Protection"
+    },
+    "14": {
+      "url": "http://projects.webappsec.org/w/page/13246959/Server%20Misconfiguration",
+      "title": "Server Misconfiguration"
+    }
+  }
+}
